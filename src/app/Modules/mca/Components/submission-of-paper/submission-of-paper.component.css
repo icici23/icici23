@@ -1,0 +1,11 @@
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+.cards-e a{
+    text-decoration: none;
+    padding: 10px;
+    border-radius:10px;
+    color:white;
+    background-color:rgb(41,125,146);
+}
